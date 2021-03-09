@@ -1,0 +1,55 @@
+body, h1{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+p{
+    font-family: "Yu Gothic Light";
+}
+
+.card-body, h2{
+    color: black;
+}
+
+.btn btn-link collapsed{
+    color: black;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
+    color: #fff;
+    background-color: cadetblue;
+    border-color: #000000;
+}
+
+/*new stuff here*/
+.navbar-brand{
+    font-family: "Bodoni MT";
+    font-size: 35px;
+}
+
+.jumbotron {
+    background-image: url("../images/pizza.jpg");
+    background-size: cover;
+    min-height: 400px;
+}
+
+.display-4{
+    background-color: transparent;
+}
+
+/*.layout{*/
+/*    display: flex;*/
+/*}*/
+.card-header{
+    color: black;
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
+
+
+
+
